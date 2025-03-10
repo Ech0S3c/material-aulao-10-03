@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmaterial=self.webpackChunkmaterial||[]).push([[634],{9179:(a,e,r)=>{r.r(e),r.d(e,{default:()=>u});r(6540);var t=r(6347),s=r(4848);function u(){return(0,s.jsx)(t.rd,{to:"/docs/material"})}}}]);
