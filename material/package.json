@@ -11,7 +11,7 @@
     "serve": "docusaurus serve",
     "write-translations": "docusaurus write-translations",
     "write-heading-ids": "docusaurus write-heading-ids",
-    "deploy": "GIT_USER=JvWandermurem USE_SSH=false docusaurus deploy"
+    "deploy": "docusaurus deploy"
   },
   "dependencies": {
     "@docusaurus/core": "3.7.0",
